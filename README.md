@@ -1,3 +1,3 @@
 # Portfolio
 There is my personal Portfolio. 
-[https//:nahidulislamkhan.lovable.app]
+https://nahidulislamkhan.lovable.app/
